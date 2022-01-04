@@ -1,0 +1,1 @@
+This is the less string implementation of the Factory Method

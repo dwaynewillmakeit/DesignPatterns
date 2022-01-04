@@ -1,0 +1,1 @@
+This is the **strict** way of implementing the factory method

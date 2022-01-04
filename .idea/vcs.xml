@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/Conference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/Conference-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/Conference-xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/Sping Boot/SpringSecurity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring/ride_tracker" vcs="Git" />
+  </component>
+</project>
